@@ -1,2 +1,1 @@
-# jahmoor.github.io
-Project 1
+MY PROJECT 1
